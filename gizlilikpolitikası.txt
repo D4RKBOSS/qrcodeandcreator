@@ -1,0 +1,34 @@
+Gizlilik Politikası
+Son Güncelleme Tarihi: 22 Mart 2026
+Bu gizlilik politikası, QR Creator And Reader mobil uygulaması ("Uygulama") tarafından toplanan, kullanılan ve korunan bilgileri açıklar. Bu uygulama, kullanıcı gizliliğini korumayı taahhüt eder.
+1. Toplanan Bilgiler
+Uygulama, aşağıdaki türde bilgileri toplayabilir:
+Kamera Erişimi: QR kodları taramak için kullanılır.
+Cihaz Bilgileri: Cihaz modeli, işletim sistemi, uygulama sürümü gibi teknik bilgiler.
+Reklam Verileri: Uygulama içinde gösterilen reklamlar aracılığıyla anonim veriler toplanabilir.
+2. Bilgilerin Kullanımı
+Toplanan bilgiler şu amaçlarla kullanılır:
+Uygulamanın düzgün çalışmasını sağlamak
+QR kod oluşturma ve okuma işlemlerini gerçekleştirmek
+Kullanıcı deneyimini geliştirmek
+Reklam hizmetleri sunmak
+3. Reklam Hizmetleri
+Uygulama, üçüncü taraf reklam hizmetleri kullanmaktadır. Bu hizmetler kullanıcı davranışlarına göre reklam gösterebilir.
+Bu kapsamda:
+Google AdMob kullanılmaktadır.
+AdMob, reklam kimliği (Advertising ID) gibi anonim verileri toplayabilir.
+Daha fazla bilgi için:https://policies.google.com/privacy
+4. Veri Paylaşımı
+Uygulama:
+Kişisel verilerinizi satmaz
+Üçüncü taraflarla yalnızca hizmet sağlamak amacıyla sınırlı veri paylaşabilir
+5. Güvenlik
+Kullanıcı verilerinin korunması için gerekli teknik ve idari önlemler alınmaktadır.
+6. Çocukların Gizliliği
+Uygulama, 13 yaş altındaki çocuklara yönelik değildir ve bilerek veri toplamaz.
+7. Değişiklikler
+Bu gizlilik politikası zaman zaman güncellenebilir. Güncellemeler bu sayfa üzerinden yayınlanır.
+8. İletişim
+Herhangi bir sorunuz varsa bizimle iletişime geçebilirsiniz:
+📧 E-posta: byrmcn99@gmail.com
+ 
