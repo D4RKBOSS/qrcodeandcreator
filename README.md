@@ -1,2 +1,0 @@
-# qrcodeandcreator
-qrkodplay
